@@ -1,4 +1,4 @@
-1.Project Title & Badges
+1.PROJECT TITLE & BADGES
 
  E-commerce Customer Spending Prediction
 
